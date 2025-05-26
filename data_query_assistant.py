@@ -2,7 +2,7 @@ import streamlit as st
 import os
 
 # === Constants ===
-SUGGESTION_FILE = "Suggestion.txt"
+SUGGESTION_FILE = "data/Suggestion.txt"
 
 # === Helper Functions ===
 @st.cache_data
