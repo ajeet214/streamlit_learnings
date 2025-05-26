@@ -1,0 +1,4 @@
+What is the total number of customers?
+What is the average number of customers?
+What is the total revenue this month?
+Which product has the highest sales?
